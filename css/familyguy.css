@@ -80,10 +80,71 @@ header .logo {
   
 }
 
+.navigation-header {
+    display:flex;
+    height: 50px;
+justify-content: flex-start;
+    align-items: flex-end;    
+    margin-top:10px;
+    margin-bottom:10px;
 
+}
 
+.navigation-header img{
+margin-right:77px;
+height:99%;
+}
 
+.navigation-header a{
+    margin-right: 100px;
+    color: black;
+    text-decoration: none;
+    
+}
 
+.title{
+    padding:10px;
+}
+
+.main-contain{
+    display: flex;
+    flex-wrap:wrap;
+    margin-top:20px;
+    
+}
+
+.coinain-box{
+width: 400px;
+border-bottom: 1px solid black   
+}
+
+.coinain-box img{
+    margin-bottom:20px;
+    margin-right: 100px;
+    
+}
+
+.coinain-box p{
+    margin-bottom:20px;
+}
+
+.coinain-box button{
+    margin-bottom: 20px;
+    
+}
+
+ {
+    
+}
+
+footer p{
+    margin-top: 10px;
+}
+
+.bottom-contain{
+    margin-bottom:20px;
+    margin-top:15px;
+}
 
 
 

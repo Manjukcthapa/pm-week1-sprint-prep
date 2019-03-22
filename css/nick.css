@@ -78,6 +78,67 @@ p {
     height: 90px;
 
 }
+.navigation-header2{ 
+    display: flex;
+    justify-content: flex-start; 
+    align-items: flex-end;  
+}
+
+.navigation-header2 img{
+    width:80px;
+    height:70px;
+    margin-top:5px;
+    
+}
+
+.navigation-header2 nav a{
+    line-height: 50px; 
+    margin-left:80px;
+    text-decoration:none
+}
+
+.top-content{
+    display:flex;
+    flex-wrap:wrap;
+    margin-right:10px;
+    margin-bottom:20px;
+}
+
+.text-container{
+    width:390px;
+     padding:50px;
+
+}
+
+.boxes {
+    display:flex;
+    flex-wrap:wrap;
+}
+
+.boxes img {
+    margin-top:20px;
+    margin-right:50px;
+    padding:10px;
+    margin-bottom:20px;
+}
+
+.next-container {
+    display:flex;
+}
+
+footer nav a{
+    line-height:20px;
+    justify-content: space-evenly;
+    margin-left:30px;
+    padding:40px;
+
+}
+
+
+
+
+
+
 
 /* ********************************************************************************************** NICK PAGE STYLES HERE  */
 
